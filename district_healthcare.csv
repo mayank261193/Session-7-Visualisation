@@ -1,0 +1,16 @@
+District,State,Hospitals,PHCs,Doctors,Population,LiteracyRate
+Pune,Maharashtra,45,120,3200,3150000,86.5
+Nagpur,Maharashtra,38,95,2100,2460000,84.2
+Kochi,Kerala,52,140,3800,2100000,95.1
+Thiruvananthapuram,Kerala,48,130,3500,1900000,95.8
+Patna,Bihar,30,70,1500,2050000,70.4
+Gaya,Bihar,22,55,900,1600000,66.3
+Jaipur,Rajasthan,40,100,2600,3070000,76.4
+Guwahati,Assam,33,80,1700,1120000,88.5
+Cuttack,Odisha,28,68,1300,1650000,84.7
+Bhubaneswar,Odisha,35,85,2000,1400000,84.7
+Mysuru,Karnataka,26,60,1200,1250000,79.3
+Bengaluru,Karnataka,60,160,5200,8400000,88.7
+Ahmedabad,Gujarat,55,150,4300,5570000,88.3
+Surat,Gujarat,44,110,3100,4460000,87.9
+Chennai,Tamil Nadu,58,155,4800,4640000,90.2
